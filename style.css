@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: pink;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: pink;
+    width: 100%;
+    height: 50px;
+}
+.navigationbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+.navigationbar li{
+    display: inline-block;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 0;
+    padding: 0;  
+}
+h2{
+    margin-left: 0;
+    padding: 0;
+    text-align: center;
+}
+p{
+    margin: 25px;
+    padding: 0;
+    line-height: 1;
+    text-align: justify;
+}
+.ul{
+    margin: 0;
+    padding: 0;
+}
