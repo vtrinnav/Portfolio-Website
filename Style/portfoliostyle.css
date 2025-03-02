@@ -1,1 +1,17 @@
+body {
+  background-color: aliceblue;
+}
 
+div {
+  text-align: center;
+}
+
+p {
+  font-size: larger;
+  font-weight: bold;
+  color: cornflowerblue;
+}
+
+img {
+  width: 7in;
+}
